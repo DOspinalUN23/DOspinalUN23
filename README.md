@@ -40,54 +40,46 @@ Además, he practicado ataques web controlados con herramientas como:
 ## ⚙️ Tecnologías y herramientas
 
 <a href="https://www.python.org/" target="_blank">
-  <img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img title="Python" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
 <a href="https://www.linux.org/" target="_blank">
-  <img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img title="Linux" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
-  <img title="SQLite" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img title="SQLite" alt="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="Git" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img title="HTML" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="HTML" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
 <a href="https://www.java.com/" target="_blank">
-  <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="Java" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
 <a href="https://www.javascript.com/" target="_blank">
-  <img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="JavaScript" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
 <a href="https://react.dev/" target="_blank">
-  <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="React" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img title="Node.js" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://go.dev/" target="_blank">
-  <img title="Go" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img title="Go" alt="Go" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 </a>
 
 <br><br>
-
-🛠️ También utilizo herramientas como:
-
-- **Burp Suite**, **Wireshark**, **Aircrack-ng**, **Gobuster**, **sqlmap**
-- **John the Ripper**, **Hashcat** para cracking de contraseñas
-- **GNU/Linux** (Debian, Kali, Arch)
-- **Bash**, **Nmap**, **tcpdump**
-- Vulnerabilidades: **SQL Injection**, **XSS**, **SSRF**, **SSTI**, **Password cracking**
 
 ---
 
 ## 📌 Proyectos destacados
 
-### 🔹 [CACVi-UN](https://github.com/DOspinalUN23/CACVi-UN)
+### 🔹 [CACVi-UN](https://github.com/Bellic12/2025-1_IngeSoft1)
 Plataforma web para reportar y geolocalizar casos de violencia dentro del campus universitario. Implementa validación de formularios, autenticación y visualización geográfica de reportes.
 
 *(Otros proyectos académicos y personales estarán disponibles próximamente)*
