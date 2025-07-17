@@ -79,7 +79,7 @@ Además, he practicado ataques web controlados con herramientas como:
 
 ## 📌 Proyectos destacados
 
-### 🔹 [CACVi-UN](https://github.com/Bellic12/2025-1_IngeSoft1)
+### 🔹 [CACVi-UN](https://github.com/Emontanor/VIPIngeSoft)
 Plataforma web para reportar y geolocalizar casos de violencia dentro del campus universitario. Implementa validación de formularios, autenticación y visualización geográfica de reportes.
 
 *(Otros proyectos académicos y personales estarán disponibles próximamente)*
